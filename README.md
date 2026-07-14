@@ -9,7 +9,7 @@ I am building hands-on cybersecurity skills through practical labs and real-worl
 - CompTIA Security+
 - CompTIA CySA+
 - CompTIA Network+
-- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure Fundamentals 
 - Microsoft Azure AI Fundamentals
 
 ## What You'll Find Here
